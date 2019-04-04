@@ -13,10 +13,9 @@ In this project, I will use what I've learned about deep neural networks and con
 ## Dependencies
 This project requires [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit). The environment can be created with CarND Term1 Starter Kit. Click [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) for the details.
 
-## Dataset and Repository
+## Dataset
 
-1. Download the [data set](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/5898cd6f_traffic-signs-data/traffic-signs-data.zip) and put them under the folder named `data`.
-2. Download this [project repo](https://tugan0329.bitbucket.io/downloads/udacity/car/traffic-sign/p2-traffic-sign-classifier.zip)
+Download the [data set](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/5898cd6f_traffic-signs-data/traffic-signs-data.zip) and put them under the folder named `data`.
 
 ## Detailed Model Description 
 
